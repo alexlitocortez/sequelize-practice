@@ -17,6 +17,3 @@ module.exports = (sequelize, DataTypes) => {
   return Project;
 };
 
-await Project.sync({ alter: true });
-
-

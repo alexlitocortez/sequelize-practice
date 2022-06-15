@@ -15,5 +15,3 @@ module.exports = (sequelize, DataTypes) => {
   };
   return User;
 };
-
-await User.sync({ alter: true });

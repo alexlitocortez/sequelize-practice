@@ -3,21 +3,18 @@
     "username": "l",
     "database": "sequelize-practice",
     "host": "127.0.0.1",
-    "port": 50029,
     "dialect": "postgres"
   },
   "test": {
     "username": "l",
     "database": "sequelize-practice",
     "host": "127.0.0.1",
-    "port": 50029,
     "dialect": "postgres"
   },
   "production": {
     "username": "l",
     "database": "sequelize-practice",
     "host": "127.0.0.1",
-    "port": 50029,
     "dialect": "postgres"
   }
 }
